@@ -82,4 +82,4 @@ This project demonstrated that while Neural Networks are powerful, they are not 
 1.  **Random Forest is the superior choice**, offering higher accuracy ($30k error vs $55k error) and greater stability with less tuning.
 2.  **Deep Learning requires careful architecture:** Simply adding layers failed. Success was only possible when we specifically addressed stability using Batch Normalization.
 
-This analysis satisfies the course requirement to comparing models and exploring the "black box" nature of hyperparameter tuning and neural architecture design.
+This analysis compares models and explores the "black box" nature of hyperparameter tuning and neural architecture design.
